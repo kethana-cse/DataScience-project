@@ -27,4 +27,4 @@ This project focuses on predicting startup success using machine learning.
 4. Run model fitting
 
 ## 📌 Author
-- Your Name
+- Runkana Kethana
